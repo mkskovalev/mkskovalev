@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mkskovalev
-- 👀 I’m interested in Ruby on Rails
+- 👋 Hi, I’m Max Kovalev
+- 👀 I’m Full-stack Ruby on Rails Developer
 
